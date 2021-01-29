@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="337px" height="384px" viewBox="0 0 337 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>banner_logo</title>
+    <defs>
+        <linearGradient x1="-3.86036202%" y1="50.1334379%" x2="60.4913188%" y2="47.8703317%" id="linearGradient-1">
+            <stop stop-color="#FF8235" offset="2%"></stop>
+            <stop stop-color="#F71F3D" offset="98%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.6242793%" y1="68.0367505%" x2="40.565167%" y2="31.0444874%" id="linearGradient-2">
+            <stop stop-color="#FF8235" offset="0%"></stop>
+            <stop stop-color="#FC5B38" offset="42%"></stop>
+            <stop stop-color="#F71F3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.602683%" y1="88.9365575%" x2="53.0284384%" y2="14.8855954%" id="linearGradient-3">
+            <stop stop-color="#FF8235" offset="20%"></stop>
+            <stop stop-color="#F71F3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.9236444%" y1="37.6421281%" x2="62.0066396%" y2="75.3626786%" id="linearGradient-4">
+            <stop stop-color="#FF8235" offset="0%"></stop>
+            <stop stop-color="#F71F3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.1563963%" y1="8.41349639%" x2="70.181682%" y2="77.6597855%" id="linearGradient-5">
+            <stop stop-color="#FF8235" offset="0%"></stop>
+            <stop stop-color="#FC5A38" offset="30%"></stop>
+            <stop stop-color="#F93A3B" offset="59%"></stop>
+            <stop stop-color="#F8263C" offset="83%"></stop>
+            <stop stop-color="#F71F3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.6579823%" y1="100.53467%" x2="49.0634272%" y2="48.0033417%" id="linearGradient-6">
+            <stop stop-color="#FF8235" offset="20%"></stop>
+            <stop stop-color="#F71F3D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1203.000000, -187.000000)" fill-rule="nonzero">
+            <g id="banner_logo" transform="translate(1203.000000, 187.000000)">
+                <path d="M172.79,289.47 L335.21,289.47 C334.943267,289.757416 334.640804,290.009469 334.31,290.22 L172.79,383.34 L172.79,289.47 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                <path d="M81.89,148.26 L0.68,287.43 C0.649316156,287.080672 0.649316156,286.729328 0.68,286.38 L0.68,101.31 L81.89,148.26 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                <polygon id="路径" fill="url(#linearGradient-3)" points="164.18 195.78 164.18 383.34 7.46 292.83 89.33 152.58"></polygon>
+                <path d="M247.49,142.74 L168.5,188.34 L3.5,93.15 L163.34,0.93 L246.62,141.69 C246.834468,142.096265 247.130677,142.453759 247.49,142.74 L247.49,142.74 Z" id="路径" fill="url(#linearGradient-4)"></path>
+                <path d="M333.35,93.15 L254.54,138.66 C254.444203,138.180724 254.261165,137.723128 254,137.31 L173.18,0.66 L333.35,93.15 Z" id="路径" fill="url(#linearGradient-5)"></path>
+                <polygon id="路径" fill="url(#linearGradient-6)" points="336.44 101.31 336.44 280.74 172.79 280.86 172.79 195.78"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

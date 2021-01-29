@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="200px" viewBox="0 0 366 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>browser_bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="366" height="200"></rect>
+        <circle id="path-3" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <linearGradient x1="4.54668888%" y1="55.3564522%" x2="36.948096%" y2="42.7409604%" id="linearGradient-5">
+            <stop stop-color="#A52714" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#A52714" stop-opacity="0" offset="66%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <circle id="path-8" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <linearGradient x1="70.0252036%" y1="87.7726931%" x2="41.908848%" y2="66.3546891%" id="linearGradient-10">
+            <stop stop-color="#055524" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#055524" stop-opacity="0" offset="33%"></stop>
+        </linearGradient>
+        <circle id="path-11" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <circle id="path-13" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <polygon id="path-15" points="0 122.36413 64.06527 122.36413 93.7997537 92.6296467 93.7997537 70.359375 40.8084375 70.359375 0 0.367092391"></polygon>
+        <linearGradient x1="40.977965%" y1="-4.840625%" x2="49.2468033%" y2="45.4140625%" id="linearGradient-17">
+            <stop stop-color="#EA6100" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#EA6100" stop-opacity="0" offset="66%"></stop>
+        </linearGradient>
+        <circle id="path-18" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <circle id="path-20" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <polygon id="path-22" points="3.82387908 0 30.3233611 45.8865489 0.588877378 97.8913043 71.1241508 97.8913043 71.1241508 0"></polygon>
+        <circle id="path-24" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <radialGradient cx="-4.87755102%" cy="-0.248210024%" fx="-4.87755102%" fy="-0.248210024%" r="401.326969%" gradientTransform="translate(-0.048776,-0.002482),scale(0.267219,1.000000),translate(0.048776,0.002482)" id="radialGradient-26">
+            <stop stop-color="#3E2723" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#3E2723" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-27" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <polygon id="path-29" points="0.00764775815 0 0.00764775815 30.8510564 30.1321671 82.595788 56.6240014 36.7092391 123.924273 36.7092391 123.924273 0"></polygon>
+        <circle id="path-31" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <radialGradient cx="-0.165938865%" cy="0.103626943%" fx="-0.165938865%" fy="0.103626943%" r="136.321397%" gradientTransform="translate(-0.001659,0.001036),scale(1.000000,0.847520),translate(0.001659,-0.001036)" id="radialGradient-33">
+            <stop stop-color="#3E2723" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#3E2723" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-34" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <radialGradient cx="10.3400309%" cy="-12.2148338%" fx="10.3400309%" fy="-12.2148338%" r="226.352396%" gradientTransform="translate(0.103400,-0.122148),scale(1.000000,0.496419),translate(-0.103400,0.122148)" id="radialGradient-36">
+            <stop stop-color="#263238" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#263238" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-37" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <circle id="path-39" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <circle id="path-41" cx="67.3002717" cy="67.3002717" r="67.3002717"></circle>
+        <radialGradient cx="14.9352273%" cy="13.6443182%" fx="14.9352273%" fy="13.6443182%" r="100.423864%" id="radialGradient-43">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-362.000000, -1511.000000)">
+            <g id="browser_bg" transform="translate(362.000000, 1511.000000)">
+                <g id="编组-17">
+                    <g id="矩形备份-11">
+                        <g id="编组-12">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="矩形备份-2" fill="#2BD180" xlink:href="#path-1"></use>
+                            <g id="Logo" mask="url(#mask-2)">
+                                <g transform="translate(35.000000, 27.000000)">
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-4)" fill-rule="nonzero">
+                                            <g transform="translate(10.676270, 0.000000)" id="Shape">
+                                                <polygon fill="#DB4437" points="0.00764775815 0 0.00764775815 82.595788 30.1321671 82.595788 56.6240014 36.7092391 123.924273 36.7092391 123.924273 0"></polygon>
+                                                <polygon fill="url(#linearGradient-5)" points="0.00764775815 0 0.00764775815 82.595788 30.1321671 82.595788 56.6240014 36.7092391 123.924273 36.7092391 123.924273 0"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-7" fill="white">
+                                            <use xlink:href="#path-6"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <polygon id="Shape" fill-opacity="0.15" fill="#3E2723" fill-rule="nonzero" mask="url(#mask-7)" points="41.5349745 82.3281165 11.0739538 30.0862806 10.6303838 30.8510564 40.8696196 82.7028567"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-9" fill="white">
+                                            <use xlink:href="#path-8"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-9)" fill-rule="nonzero">
+                                            <g transform="translate(0.000000, 12.236413)" id="Shape">
+                                                <polygon fill="#0F9D58" points="0 122.36413 64.06527 122.36413 93.7997537 92.6296467 93.7997537 70.359375 40.8084375 70.359375 0 0.367092391"></polygon>
+                                                <polygon fill="url(#linearGradient-10)" points="0 122.36413 64.06527 122.36413 93.7997537 92.6296467 93.7997537 70.359375 40.8084375 70.359375 0 0.367092391"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-12" fill="white">
+                                            <use xlink:href="#path-11"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <polygon id="Shape" fill-opacity="0.15" fill="#263238" fill-rule="nonzero" mask="url(#mask-12)" points="93.1802853 83.6129399 92.5455214 83.2458475 63.1857779 134.600543 64.06527 134.600543 93.2032286 83.6358832"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-14" fill="white">
+                                            <use xlink:href="#path-13"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g mask="url(#mask-14)">
+                                            <g transform="translate(0.000000, 12.236413)">
+                                                <mask id="mask-16" fill="white">
+                                                    <use xlink:href="#path-15"></use>
+                                                </mask>
+                                                <g id="e" stroke="none" fill="none"></g>
+                                                <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-16)">
+                                                    <g transform="translate(63.476393, 24.472826)" fill-rule="nonzero" id="Shape">
+                                                        <polygon fill="#FFCD40" points="3.82387908 0 30.3233611 45.8865489 0.588877378 97.8913043 71.1241508 97.8913043 71.1241508 0"></polygon>
+                                                        <polygon fill="url(#linearGradient-17)" points="3.82387908 0 30.3233611 45.8865489 0.588877378 97.8913043 71.1241508 97.8913043 71.1241508 0"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-19" fill="white">
+                                            <use xlink:href="#path-18"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-19)" fill-rule="nonzero">
+                                            <g transform="translate(63.476393, 36.709239)" id="Shape">
+                                                <polygon fill="#FFCD40" points="3.82387908 0 30.3233611 45.8865489 0.588877378 97.8913043 71.1241508 97.8913043 71.1241508 0"></polygon>
+                                                <polygon fill="url(#linearGradient-17)" points="3.82387908 0 30.3233611 45.8865489 0.588877378 97.8913043 71.1241508 97.8913043 71.1241508 0"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-21" fill="white">
+                                            <use xlink:href="#path-20"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g mask="url(#mask-21)">
+                                            <g transform="translate(63.476393, 36.709239)">
+                                                <mask id="mask-23" fill="white">
+                                                    <use xlink:href="#path-22"></use>
+                                                </mask>
+                                                <g id="i" stroke="none" fill="none"></g>
+                                                <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-23)">
+                                                    <g transform="translate(-52.800122, -36.709239)" fill-rule="nonzero" id="Shape">
+                                                        <polygon fill="#DB4437" points="0.00764775815 0 0.00764775815 82.595788 30.1321671 82.595788 56.6240014 36.7092391 123.924273 36.7092391 123.924273 0"></polygon>
+                                                        <polygon fill="url(#linearGradient-5)" points="0.00764775815 0 0.00764775815 82.595788 30.1321671 82.595788 56.6240014 36.7092391 123.924273 36.7092391 123.924273 0"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-25" fill="white">
+                                            <use xlink:href="#path-24"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <polygon id="Shape" fill="url(#radialGradient-26)" fill-rule="nonzero" mask="url(#mask-25)" points="67.3002717 36.7092391 67.3002717 52.7312925 127.258696 36.7092391"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-28" fill="white">
+                                            <use xlink:href="#path-27"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g mask="url(#mask-28)">
+                                            <g transform="translate(10.676270, 0.000000)">
+                                                <mask id="mask-30" fill="white">
+                                                    <use xlink:href="#path-29"></use>
+                                                </mask>
+                                                <g id="m" stroke="none" fill="none"></g>
+                                                <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-30)">
+                                                    <g transform="translate(-10.676270, 12.236413)" fill-rule="nonzero" id="Shape">
+                                                        <polygon fill="#0F9D58" points="0 122.36413 64.06527 122.36413 93.7997537 92.6296467 93.7997537 70.359375 40.8084375 70.359375 0 0.367092391"></polygon>
+                                                        <polygon fill="url(#linearGradient-10)" points="0 122.36413 64.06527 122.36413 93.7997537 92.6296467 93.7997537 70.359375 40.8084375 70.359375 0 0.367092391"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-32" fill="white">
+                                            <use xlink:href="#path-31"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <polygon id="Shape" fill="url(#radialGradient-33)" fill-rule="nonzero" mask="url(#mask-32)" points="10.6839181 30.9351817 54.4673336 74.7109494 40.8084375 82.595788"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-35" fill="white">
+                                            <use xlink:href="#path-34"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <polygon id="Shape" fill="url(#radialGradient-36)" fill-rule="nonzero" mask="url(#mask-35)" points="64.1111566 134.516418 80.1408577 74.7109494 93.7997537 82.595788"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-38" fill="white">
+                                            <use xlink:href="#path-37"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-38)" fill-rule="nonzero">
+                                            <g transform="translate(36.709239, 36.709239)" id="Oval">
+                                                <circle fill="#F1F1F1" cx="30.5910326" cy="30.5910326" r="30.5910326"></circle>
+                                                <circle fill="#4285F4" cx="30.5910326" cy="30.5910326" r="24.4728261"></circle>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-40" fill="white">
+                                            <use xlink:href="#path-39"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-40)" fill-rule="nonzero">
+                                            <g transform="translate(0.000000, 12.236413)" id="Shape">
+                                                <path d="M67.3002717,23.7080503 C50.406374,23.7080503 36.7092391,37.4051851 36.7092391,54.2990829 L36.7092391,55.0638587 C36.7092391,38.1699609 50.406374,24.4728261 67.3002717,24.4728261 L134.600543,24.4728261 L134.600543,23.7080503 L67.3002717,23.7080503 Z" fill-opacity="0.2" fill="#3E2723"></path>
+                                                <path d="M93.7615149,70.359375 C88.4692663,79.4907982 78.611306,85.6548913 67.3002717,85.6548913 C55.9815897,85.6548913 46.1236294,79.4907982 40.8313808,70.359375 L40.8007897,70.359375 L0,0.367092391 L0,1.13186821 L40.8084375,71.1241508 L40.8390285,71.1241508 C46.1312772,80.255574 55.9892374,86.4196671 67.3079195,86.4196671 C78.6189538,86.4196671 88.4769141,80.2632218 93.7691627,71.1241508 L93.8074015,71.1241508 L93.8074015,70.359375 L93.7615149,70.359375 Z" fill-opacity="0.1" fill="#FFFFFF"></path>
+                                                <path d="M68.0650476,24.4728261 C67.9350357,24.4728261 67.8126715,24.4881216 67.6826596,24.4957694 C84.400659,24.7022588 97.8913043,38.2999728 97.8913043,55.0638587 C97.8913043,71.8277446 84.400659,85.4254586 67.6826596,85.631948 C67.8126715,85.631948 67.9350357,85.6548913 68.0650476,85.6548913 C84.9589453,85.6548913 98.6560802,71.9577565 98.6560802,55.0638587 C98.6560802,38.1699609 84.9589453,24.4728261 68.0650476,24.4728261 Z" fill="#3E2723" opacity="0.1"></path>
+                                                <path d="M94.0674253,71.3765268 C96.667663,66.879645 98.1742714,61.6791695 98.1742714,56.1116016 C98.1742714,52.8842476 97.6695194,49.7792578 96.7441406,46.865462 C97.4706776,49.4809952 97.8913043,52.2265404 97.8913043,55.0715065 C97.8913043,60.6390744 96.384696,65.8395499 93.7844582,70.3364317 L93.7997537,70.3670228 L64.06527,122.371778 L64.95241,122.371778 L94.0827208,71.4071179 L94.0674253,71.3765268 Z" fill-opacity="0.2" fill="#FFFFFF"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.840000, 6.840000)">
+                                        <mask id="mask-42" fill="white">
+                                            <use xlink:href="#path-41"></use>
+                                        </mask>
+                                        <g id="a"></g>
+                                        <g id="Group" mask="url(#mask-42)" fill-rule="nonzero">
+                                            <path d="M67.3002717,0.764775815 C104.338364,0.764775815 134.386406,30.6904535 134.592896,67.6826596 C134.592896,67.5526478 134.600543,67.4302836 134.600543,67.3002717 C134.600543,30.1321671 104.468376,0 67.3002717,0 C30.1321671,0 0,30.1321671 0,67.3002717 C0,67.4302836 0.00764775815,67.5526478 0.00764775815,67.6826596 C0.214137228,30.6904535 30.262179,0.764775815 67.3002717,0.764775815 Z" id="Shape" fill-opacity="0.2" fill="#FFFFFF"></path>
+                                            <path d="M67.3002717,133.835768 C104.338364,133.835768 134.386406,103.91009 134.592896,66.9178838 C134.592896,67.0478957 134.600543,67.1702599 134.600543,67.3002717 C134.600543,104.468376 104.468376,134.600543 67.3002717,134.600543 C30.1321671,134.600543 0,104.468376 0,67.3002717 C0,67.1702599 0.00764775815,67.0478957 0.00764775815,66.9178838 C0.214137228,103.91009 30.262179,133.835768 67.3002717,133.835768 Z" id="Shape" fill-opacity="0.15" fill="#3E2723"></path>
+                                        </g>
+                                    </g>
+                                    <circle id="Oval" fill="url(#radialGradient-43)" fill-rule="nonzero" cx="73.9575" cy="73.9575" r="67.1175"></circle>
+                                    <polygon id="Shape" fill="none" points="0 0 147.06 0 147.06 147.06 0 147.06"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
