@@ -30,10 +30,10 @@
          },
         changeLangEvent() {
           if ( this.$i18n.locale === 'zh-CN' ) {
-            this.$i18n.locale = 'en-US';//关键语句
+            this.$i18n.locale = 'en-US';
             console.log('en-US')
           }else {
-            this.$i18n.locale = 'zh-CN';//关键语句
+            this.$i18n.locale = 'zh-CN';
             console.log('zh-CN')
           }
         }
