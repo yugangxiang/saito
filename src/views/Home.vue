@@ -1,22 +1,25 @@
 <template>
   <div class="home">
-    <section class="home_top wrapper">
-      <h1>A World of Blockchains<br>In Your Browser</h1>
+    <section class="top_div">
+      <div class="home_top wrapper">
+        <h1>A World of Blockchains<br>In Your Browser</h1>
 
-      <div class="top_btn_div">
-        <a-button class="red_btn">SEE GAME DEMO</a-button>
-        <a-button class="black_btn">Developers</a-button>
-      </div>
+        <div class="top_btn_div">
+          <a-button class="red_btn">SEE GAME DEMO</a-button>
+          <a-button class="black_btn">DEVELOPERS</a-button>
+        </div>
 
-      <p>Saito runs blockchain apps in your browser without cclosed plugins or non-open infrastrycture. Even better, it
-        pays nodes to run the equipment needed to keep other networks free and decentralized. </p>
+        <p>Saito runs blockchain apps in your browser without cclosed plugins or non-open infrastrycture. Even better,
+          it
+          pays nodes to run the equipment needed to keep other networks free and decentralized. </p>
 
-      <div class="top_link">
-        <span>Lite paper</span>
-        <div class="top_line"/>
-        <span>Developer Getting Started</span>
-        <div class="top_line"/>
-        <span>Whitepaper</span>
+        <div class="top_link">
+          <span>Lite paper</span>
+          <div class="top_line"/>
+          <span>Developer Getting Started</span>
+          <div class="top_line"/>
+          <span>Whitepaper</span>
+        </div>
       </div>
     </section>
 
@@ -57,7 +60,7 @@
       <div class="trend_div wrapper">
         <a-row>
           <a-col :md="24" :lg="8" v-for="(item, index) in trendData" :key="index">
-            <div class="trend_item">
+            <div class="trend_item" :class="index == 1 && 'trend_hove'">
               <h2>{{item.theme}}</h2>
               <h4>{{item.title}}</h4>
               <p>{{item.text}}</p>
@@ -76,7 +79,7 @@
           <div class="roadmap_item_right">
             <p>{{item.topText}}</p>
             <div  class="roadmap_item_line" :style="{background: item.topText && 'linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))'}"/>
-            <img class="roadmap_item_node" src="../assets/image/dot_icon.svg"/>
+            <img class="roadmap_item_node" src="../assets/image/dot_icon.png"/>
             <div  class="roadmap_item_line" :style="{background: item.bottomText && 'linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))'}"/>
             <p>{{item.bottomText}}</p>
           </div>
@@ -115,7 +118,7 @@
           </div>
         </div>
 
-        <div class="foot_column">
+        <div class="foot_column" style="border-bottom: 1px solid #1C1C23">
           <div class="foot_left">
             <p>© Proclus Technologies. All Rights Reserved</p>
           </div>
@@ -241,6 +244,11 @@
   }
   .home {
     width: 100%;
+    .top_div {
+      background-image: url("../assets/image/top_bg.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
     .home_top {
       background-image: url("../assets/image/banner_logo.svg");
       background-repeat: no-repeat;
@@ -374,10 +382,21 @@
             font-family: WorkSans-Regular, WorkSans;
           }
         }
+
+        .trend_hove {
+          margin: -30px 0;
+          width: 387px;
+          height: 503px !important;
+          background: #FFFFFF;
+          box-shadow: 0px 5px 20px 0px rgba(205, 205, 205, 0.5);
+          h2 {
+            display: block;
+          }
+        }
       }
     }
     .home_roadmap {
-      background-image: url("../assets/image/Roadmap_bg.svg");
+      background-image: url("../assets/image/Roadmap_bg.png");
       background-repeat: no-repeat;
       h2 {
         color: #FFFFFF;
@@ -386,13 +405,31 @@
         text-align: center;
         font-family: WorkSans-Bold, WorkSans;
       }
+      .roadmap_div::-webkit-scrollbar {
+        height: 4px;
+      }
+      .roadmap_div::-webkit-scrollbar-track {
+        border-radius: 4px;
+        background: rgba(255, 255, 255, 0.3)
+      }
+      .roadmap_div::-webkit-scrollbar:vertical {
+        width: 6px;
+      }
+      .roadmap_div::-webkit-scrollbar:horizontal {
+        height: 6px;
+      }
+      .roadmap_div::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #FFFFFF;
+      }
       .roadmap_div {
         height: 100%;
         display: flex;
         flex-direction: row;
         align-items: center;
-        overflow-x: auto;
+        overflow-x: scroll;
         padding-bottom: 45px;
+
         .roadmap_item {
           display: flex;
           flex-direction: row;
@@ -459,6 +496,7 @@
           display: flex;
           flex-direction: row;
           align-items: center;
+          padding-top: 10px;
           padding-bottom: 74px;
         }
         .foot_left {
@@ -536,16 +574,6 @@
           padding: 0 50px;
           .trend_item {
             height: 441px;
-            &:hover, &:active {
-              margin: -30px;
-              width: 387px;
-              height: 503px;
-              background: #FFFFFF;
-              box-shadow: 0px 5px 20px 0px rgba(205, 205, 205, 0.5);
-              h2 {
-                display: block;
-              }
-            }
           }
         }
       }
@@ -553,6 +581,7 @@
         height: 820px;
         padding-top: 80px;
         padding-bottom: 110px;
+        background-size: 100% 100%;
       }
       .supporters_foot {
         .supporters_div {

@@ -65,6 +65,7 @@
     right: 0;
     background: #FFFFFF;
     z-index: 999;
+    border-bottom: 1px solid #CCCCCC;
     .wrapper {
       width: 100%;
       max-width: 1160px;
@@ -91,7 +92,7 @@
         .btn_div {
           width: 80px;
           font-size: 14px;
-          font-family: WorkSans-Medium, WorkSans;
+          font-family: WorkSans-Bold, WorkSans;
           color: #1C1C23;
           line-height: 16px;
           text-align: center;
@@ -129,7 +130,6 @@
       .wrapper {
         padding-left: 20px;
         padding-right: 20px;
-        border-bottom: 1px solid #CCCCCC;
       }
       .head-div {
         justify-content: space-between;

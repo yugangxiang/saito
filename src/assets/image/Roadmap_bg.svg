@@ -1,47 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1920px" height="820px" viewBox="0 0 1920 820" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2560px" height="820px" viewBox="0 0 2560 820" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Roadmap_bg</title>
     <defs>
-        <linearGradient x1="0%" y1="40.8799913%" x2="100%" y2="59.1200087%" id="linearGradient-1">
+        <linearGradient x1="0%" y1="44.8699951%" x2="100%" y2="55.1300049%" id="linearGradient-1">
             <stop stop-color="#0A0A0A" offset="0%"></stop>
             <stop stop-color="#58585C" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="0" y="0" width="1920" height="820"></rect>
+        <rect id="path-2" x="0" y="0" width="2560" height="820"></rect>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="88.4981918%" id="linearGradient-4">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="47.7199978%" x2="94.8777959%" y2="51.6794061%" id="linearGradient-5">
+        <linearGradient x1="0%" y1="48.7174988%" x2="94.8777959%" y2="50.9446659%" id="linearGradient-5">
             <stop stop-color="#FF8235" offset="0%"></stop>
             <stop stop-color="#F71F3D" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-6" x="0" y="0" width="1920" height="410"></rect>
+        <rect id="path-6" x="0" y="0" width="2560" height="410"></rect>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="88.4981918%" id="linearGradient-8">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="画板" transform="translate(0.000000, -2414.000000)">
-            <g id="Roadmap_bg" transform="translate(0.000000, 2414.000000)">
-                <g id="矩形-5">
-                    <mask id="mask-3" fill="white">
-                        <use xlink:href="#path-2"></use>
-                    </mask>
-                    <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-                    <text id="Project" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.0982375372" mask="url(#mask-3)" font-family="WorkSans-Bold, Work Sans" font-size="500" font-weight="bold" letter-spacing="-20.6666667">
-                        <tspan x="-134.666667" y="309">PROJECT</tspan>
-                    </text>
-                </g>
-                <g id="矩形备份-3" transform="translate(0.000000, 410.000000)">
-                    <mask id="mask-7" fill="white">
-                        <use xlink:href="#path-6"></use>
-                    </mask>
-                    <use id="矩形备份" fill="url(#linearGradient-5)" fill-rule="nonzero" xlink:href="#path-6"></use>
-                    <text id="Technical" fill="url(#linearGradient-8)" fill-rule="nonzero" opacity="0.220028832" mask="url(#mask-7)" font-family="WorkSans-Bold, Work Sans" font-size="500" font-weight="bold" letter-spacing="-20.6666667">
-                        <tspan x="-376.5" y="327">TECHNICAL</tspan>
-                    </text>
-                </g>
+        <g id="Roadmap_bg">
+            <g id="矩形-5">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <text id="Project" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.0982375372" mask="url(#mask-3)" font-family="WorkSans-Bold, Work Sans" font-size="500" font-weight="bold" letter-spacing="-20.6666667">
+                    <tspan x="185.333333" y="309">PROJECT</tspan>
+                </text>
+            </g>
+            <g id="矩形备份-3" transform="translate(0.000000, 410.000000)">
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <use id="矩形备份" fill="url(#linearGradient-5)" fill-rule="nonzero" xlink:href="#path-6"></use>
+                <text id="Technical" fill="url(#linearGradient-8)" fill-rule="nonzero" opacity="0.220028832" mask="url(#mask-7)" font-family="WorkSans-Bold, Work Sans" font-size="500" font-weight="bold" letter-spacing="-20.6666667">
+                    <tspan x="-57.5" y="327">TECHNICAL</tspan>
+                </text>
             </g>
         </g>
     </g>
